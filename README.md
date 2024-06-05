@@ -32,3 +32,8 @@ The website uses the following libraries:
 * Font Awesome: A library of icons used throughout the website, such as in the navigation menu and the features section.
 
 The website also uses some custom JavaScript code to handle the navigation menu toggle, smooth scrolling to sections, and the dark mode toggle.
+
+Live Website
+------------
+https://uifrylandingpage.netlify.app/
+
